@@ -1,0 +1,16 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\WindowsMedicos.exe.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\WindowsMedicos.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\WindowsMedicos.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\Datos.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\Entidades.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\Datos.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\Datos.dll.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.Form1.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.Properties.Resources.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.GenerateResource.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.CopyComplete
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\16-insert-sql\slnSistemaMedicos\WindowsMedicos\obj\Debug\WindowsMedicos.pdb
